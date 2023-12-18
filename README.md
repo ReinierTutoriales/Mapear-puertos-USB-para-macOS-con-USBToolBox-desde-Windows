@@ -47,8 +47,8 @@ En el [sitio](https://github.com/USBToolBox/tool/releases) de GitHub tienes la h
       - Al terminar con ambos dispositivos, letra B para volver al menú anterior.
 
 - [x] `Letra S` para elegir los puertos y construir la extensión `Kext`
-      - En la lista, cada puerto en el que conectaste un dispositivo lo tiene asociado. Además de los que ya tenían alguno conectado (los que están en verde)
-      - Aquí puedes detenerte en dar nombre a los puertos que vas a elegir, para ello escribes `c:x:nombre` siendo x el número del puerto y nombre el que quieres darle (pueden ser varias palabras)
+      - En la lista, cada puerto en el que conectaste un dispositivo lo tiene asociado. Además de los que ya tenían alguno conectado (los que están en verde).
+      - Aquí puedes detenerte en dar nombre a los puertos que vas a elegir, para ello escribes `c:x:nombre` siendo x el número del puerto y nombre el que quieres darle (pueden ser varias palabras).
       - Llega la hora de hacer la selección. Lo más cómodo es usar N para deseleccionar todos los puertos y después escribir la lista numérica de los elegidos en la forma 1,2,3,4,5 sin superar los 15 puertos.
       - Al final, la lista muestra cuáles son los 15 puertos elegidos y el comentario que hemos escrito en cada uno de ellos.
 
