@@ -14,7 +14,7 @@ En el [sitio](https://github.com/USBToolBox) de GitHub tienes la herramienta par
 
 En la carpeta descomprimida, ejecuta Windows.exe. Se abre una ventana de comandos en la que tiene lugar todo el proceso.
 
-![ToolBox 1](toolbox1.png)
+![ToolBox 1](IMG/USBToolBox1.png)
 
 **Letra C** para acceder a la configuración
 
