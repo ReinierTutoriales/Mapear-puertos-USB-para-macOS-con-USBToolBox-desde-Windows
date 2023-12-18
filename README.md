@@ -17,11 +17,10 @@
 # Mapear puertos USB para macOS con USBToolBox desde Windows
 Generar el mapa de puertos USB en Windows para ser utilizado en macOS, que tiene un límite de 15 puertos por controlador USB, mediante la herramienta USBToolBox de [Dhinak G](https://github.com/dhinakg). Actualmente, este es el método más sencillo de generar el mapa de puertos USB para macOS con el único inconveniente de que necesita tener el sistema Windows en el PC, donde despues instalará macOS.
 
-No he encontrado instrucciones en español, este artículo intenta subsanar esta carencia.
 
-### Descarga las herramientas
+### Descarga las herramienta como el nombre windows.exe para ser ejecuetada en Windows.
 
-En el [sitio](https://github.com/USBToolBox) de GitHub tienes la herramienta para Windows (tool >> Releases >> Windows.zip). Por ahora es todo lo que necesitas.
+En el [sitio](https://github.com/USBToolBox/tool/releases) de GitHub tienes la herramienta para Windows (tool >> Releases >> Windows.exe). Por ahora es todo lo que necesitas.
 
 ### Crea el mapa de puertos
 
