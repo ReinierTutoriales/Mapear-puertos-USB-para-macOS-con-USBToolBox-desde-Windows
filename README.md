@@ -24,7 +24,7 @@ En el [sitio](https://github.com/USBToolBox/tool/releases) de GitHub tienes la h
 
 ### Crea el mapa de puertos
 
-En la carpeta descomprimida, ejecuta Windows.exe. Se abre una ventana de comandos en la que tiene lugar todo el proceso.
+ - [x] En la carpeta descomprimida, ejecuta Windows.exe. Se abre una ventana de comandos en la que tiene lugar todo el proceso.
 
 ![ToolBox 1](IMG/USBToolBox1.png)
 
