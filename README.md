@@ -28,9 +28,9 @@ En el [sitio](https://github.com/USBToolBox/tool/releases) de GitHub tienes la h
 
 ![ToolBox 1](IMG/USBToolBox1.png)
 
- - [x] **Letra C** para acceder a la configuración
+ - [x] `Letra C` para acceder a la configuración
+      - Aquí solamente habilito 2 opciones: *Show Friendly Types* (facilita la lectura de los puertos detectados) y *Add Comments to Map* (permite añadir comentarios identificativos a cada puerto como por ejemplo «USB3 azul trasero»).
 
-  - Aquí solamente habilito 2 opciones: *Show Friendly Types* (facilita la lectura de los puertos detectados) y *Add Comments to Map* (permite añadir comentarios identificativos a cada puerto como por ejemplo «USB3 azul trasero»).
 
 ![ToolBox 2](IMG/USBToolBox2.png)
 
