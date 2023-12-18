@@ -61,4 +61,6 @@ En el [sitio](https://github.com/USBToolBox/tool/releases) de GitHub tienes la h
 
 ![ToolBox 4](IMG/USBToolBox4.png)
 
-Una ventaja adicional que tiene este método sobre USBMap.kext de [corpnewt](https://github.com/corpnewt) o USBPorts.kext de la herramienta [Hackintool](https://github.com/benbaker76/Hackintool) de macOS es que no depende del modelo SMBIOS, en estas hay que modificar el archivo Info.plist de la extensión al cambiar de modelo de Mac.
+> [!IMPORTANT]
+> Una ventaja adicional que tiene este método sobre USBMap.kext de [corpnewt](https://github.com/corpnewt) o USBPorts.kext de la herramienta [Hackintool](https://github.com/benbaker76/Hackintool) de macOS es que no depende del modelo SMBIOS, en estas hay que modificar el archivo Info.plist de la extensión al cambiar de modelo de Mac.
+
