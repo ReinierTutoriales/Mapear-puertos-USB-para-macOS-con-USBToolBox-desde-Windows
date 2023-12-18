@@ -42,10 +42,10 @@ En el [sitio](https://github.com/USBToolBox/tool/releases) de GitHub tienes la h
 
 - [x] En esta fase necesitas un dispositivo USB de tipo 2 y otro de tipo 3. Yo he recurrido a un disco externo USB3 y 2 cables para conectarlo al PC de los que uno es USB2 y otro es USB3. Sirven también 2 memorias USB, una USB2 y otra USB3.
 
-* Empiezas con el dispositivo USB2 y al finalizar repites con el USB3 (o a la inversa)
-* Lo vas conectando en cada uno de los puertos, sean USB2 o USB3, hasta comprobar que aparece en la lista de puertos
-* Al quitar el dispositivo, también desaparece de la lista pero queda guardado para el paso siguiente
-* Al terminar con ambos dispositivos, letra B para volver al menú anterior.
+      - Empiezas con el dispositivo USB2 y al finalizar repites con el USB3 (o a la inversa)
+      - Lo vas conectando en cada uno de los puertos, sean USB2 o USB3, hasta comprobar que aparece en la lista de puertos
+      - Al quitar el dispositivo, también desaparece de la lista pero queda guardado para el paso siguiente
+      - Al terminar con ambos dispositivos, letra B para volver al menú anterior.
 
 **Letra S** para elegir los puertos y construir la extensión (kext)
 
