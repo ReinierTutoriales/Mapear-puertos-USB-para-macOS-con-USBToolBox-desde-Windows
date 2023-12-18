@@ -56,9 +56,8 @@ En el [sitio](https://github.com/USBToolBox/tool/releases) de GitHub tienes la h
 
 ![ToolBox 3](IMG/USBToolBox3.png)
 
-**Letra K** para generar UTBMap.kext
-
-Esta es la extensión que macOS va a utilizar. No funciona por sí sola sino que ha de ir acompañada de la extensión USBToolBox.kext descargada desde el mismo sitio de GitHub. Ambas juntas en la carpeta Kexts de OpenCore o Clover. En el archivo config.plist, USBToolBox.kext ha de ir antes de UTBMap.kext.
+ - [x] `Letra K` para generar UTBMap.kext
+      - Esta es la extensión que macOS va a utilizar. No funciona por sí sola sino que ha de ir acompañada de la extensión USBToolBox.kext descargada desde el mismo sitio de GitHub. Ambas juntas en la carpeta Kexts de OpenCore o Clover. En el archivo config.plist, USBToolBox.kext ha de ir antes de UTBMap.kext.
 
 ![ToolBox 4](IMG/USBToolBox4.png)
 
