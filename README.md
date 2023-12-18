@@ -20,7 +20,7 @@ Generar el mapa de puertos USB en Windows para ser utilizado en macOS, que tiene
 
 ### Descarga las herramienta como el nombre windows.exe para ser ejecuetada en Windows.
 
-En el [sitio](https://github.com/USBToolBox/tool/releases) de GitHub tienes la herramienta para Windows (tool >> Releases >> Windows.exe). Por ahora es todo lo que necesitas.
+En el [sitio](https://github.com/USBToolBox/tool/releases) de GitHub tienes la herramienta para Windows (Releases >> Windows.exe). Por ahora es todo lo que necesitas.
 
 ### Crea el mapa de puertos
 
