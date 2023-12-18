@@ -10,6 +10,7 @@
 [![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://www.instagram.com/reiniertutoriales/)
 
 <hr>
+</div>
 
 
 
