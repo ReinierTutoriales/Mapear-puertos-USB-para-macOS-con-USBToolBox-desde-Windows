@@ -20,7 +20,7 @@ En la carpeta descomprimida, ejecuta Windows.exe. Se abre una ventana de comando
 
 Aquí solamente habilito 2 opciones: *Show Friendly Types* (facilita la lectura de los puertos detectados) y *Add Comments to Map* (permite añadir comentarios identificativos a cada puerto como por ejemplo «USB3 azul trasero»).
 
-![ToolBox 2](toolbox2.png)
+![ToolBox 2](IMG/USBToolBox2.png)
 
 **Letra D** para mostrar todos los puertos detectados por la herramienta
 
@@ -42,12 +42,12 @@ Aquí puedes detenerte en dar nombre a los puertos que vas a elegir, para ello e
 Llega la hora de hacer la selección. Lo más cómodo es usar N para deseleccionar todos los puertos y después escribir la lista numérica de los elegidos en la forma 1,2,3,4,5 sin superar los 15 puertos.
 Al final, la lista muestra cuáles son los 15 puertos elegidos y el comentario que hemos escrito en cada uno de ellos.
 
-![ToolBox 3](toolbox3.png)
+![ToolBox 3](IMG/USBToolBox3.png)
 
 **Letra K** para generar UTBMap.kext
 
 Esta es la extensión que macOS va a utilizar. No funciona por sí sola sino que ha de ir acompañada de la extensión USBToolBox.kext descargada desde el mismo sitio de GitHub. Ambas juntas en la carpeta Kexts de OpenCore o Clover. En el archivo config.plist, USBToolBox.kext ha de ir antes de UTBMap.kext.
 
-![ToolBox 4](toolbox4.png)
+![ToolBox 4](IMG/USBToolBox4.png)
 
 Una ventaja adicional que tiene este método sobre USBMap.kext de [corpnewt](https://github.com/corpnewt) o USBPorts.kext de la herramienta [Hackintool](https://github.com/benbaker76/Hackintool) de macOS es que no depende del modelo SMBIOS, en estas hay que modificar el archivo Info.plist de la extensión al cambiar de modelo de Mac.
