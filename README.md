@@ -46,7 +46,8 @@ En el [sitio](https://github.com/USBToolBox/tool/releases) de GitHub tienes la h
       - Al quitar el dispositivo, también desaparece de la lista pero queda guardado para el paso siguiente.
       - Al terminar con ambos dispositivos, letra B para volver al menú anterior.
 
-**Letra S** para elegir los puertos y construir la extensión (kext)
+- [x] `Letra S` para elegir los puertos y construir la extensión `Kext`
+**** 
 
 En la lista, cada puerto en el que conectaste un dispositivo lo tiene asociado. Además de los que ya tenían alguno conectado (los que están en verde)
 Aquí puedes detenerte en dar nombre a los puertos que vas a elegir, para ello escribes `c:x:nombre` siendo x el número del puerto y nombre el que quieres darle (pueden ser varias palabras)
