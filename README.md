@@ -34,7 +34,7 @@ En el [sitio](https://github.com/USBToolBox/tool/releases) de GitHub tienes la h
 
 ![ToolBox 2](IMG/USBToolBox2.png)
 
-**Letra D** para mostrar todos los puertos detectados por la herramienta
+- [x] `Letra D` para mostrar todos los puertos detectados por la herramienta
 
 Casi todas las placas base que tenemos en los Hackintosh tienen más de 15 puertos que es el tope máximo tolerado por macOS. En mi caso, hay 26 puertos. Si uso macOS tal cual, sin mapa de puertos, algunos se van a activar y otros no, probablemente algunos van a funcionar con velocidad incorrecta y casi con toda seguridad la función de reposo (y otras probablemente) no va a funcionar bien. Por ello es necesario generar el mapa, para dejar definidos los 15 puertos que vamos a tener activos en macOS y que serán los únicos que podremos utilizar.
 
