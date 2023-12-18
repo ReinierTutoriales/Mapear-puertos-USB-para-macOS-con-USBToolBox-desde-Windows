@@ -2,7 +2,7 @@
 
 ### Resumen
 
-Generar el mapa de puertos USB en Windows para ser utilizado en macOS, que tiene un límite de 15 puertos por controlador USB, mediante la herramienta USBToolBox de [dhinakg](https://github.com/dhinakg). Actualmente, este es el método más sencillo de generar el mapa de puertos USB para macOS con el único inconveniente de que necesita un sistema Windows en la misma máquina.
+Generar el mapa de puertos USB en Windows para ser utilizado en macOS, que tiene un límite de 15 puertos por controlador USB, mediante la herramienta USBToolBox de [Dhinak G](https://github.com/dhinakg). Actualmente, este es el método más sencillo de generar el mapa de puertos USB para macOS con el único inconveniente de que necesita un sistema Windows en la misma máquina.
 
 No he encontrado instrucciones en español, este artículo intenta subsanar esta carencia.
 
