@@ -40,14 +40,14 @@ En el [sitio](https://github.com/USBToolBox/tool/releases) de GitHub tienes la h
 
 - [x] Observa que los puertos que tienen algún dispositivo conectado están en verde y el resto están en blanco.
 
-- [x] En esta fase necesitas un dispositivo USB de tipo 2 y otro de tipo 3. Yo he recurrido a un disco externo USB3 y 2 cables para conectarlo al PC de los que uno es USB2 y otro es USB3. Sirven también 2 memorias USB, una USB2 y otra USB3
+ - [x] En esta fase necesitas un dispositivo USB de tipo 2 y otro de tipo 3. Yo he recurrido a un disco externo USB3 y 2 cables para conectarlo al PC de los que uno es USB2 y otro es USB3. Sirven también 2 memorias USB, una USB2 y otra USB3
       - Empiezas con el dispositivo USB2 y al finalizar repites con el USB3 (o a la inversa).
       - Lo vas conectando en cada uno de los puertos, sean USB2 o USB3, hasta comprobar que aparece en la lista de puertos.
       - Al quitar el dispositivo, también desaparece de la lista pero queda guardado para el paso siguiente.
       - Al terminar con ambos dispositivos, letra B para volver al menú anterior.
 
 
-- [x] `Letra S` para elegir los puertos y construir la extensión `Kext`
+ - [x] `Letra S` para elegir los puertos y construir la extensión `Kext`
       - En la lista, cada puerto en el que conectaste un dispositivo lo tiene asociado. Además de los que ya tenían alguno conectado `los que están en color verde`.
       - Aquí puedes detenerte en dar nombre a los puertos que vas a elegir, para ello escribes `c:x:nombre` siendo x el número del puerto y nombre el que quieres darle (pueden ser varias palabras).
       - Llega la hora de hacer la selección. Lo más cómodo es usar N para deseleccionar todos los puertos y después escribir la lista numérica de los elegidos en la forma 1,2,3,4,5 sin superar los 15 puertos.
